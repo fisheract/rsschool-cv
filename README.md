@@ -1,1 +1,1 @@
-Create md file for cv
+https://fisheract.github.io/rsschool-cv/cv
