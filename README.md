@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fisheract.github.io/rsschool-cv/
